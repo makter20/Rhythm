@@ -54,7 +54,7 @@ Here's a walkthrough of implemented user stories:
 [I was wondering to know how to make this same game without using glitch. I am so interested to enhance my knowledge in this field. ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[The fucntions list I would add are down below 
+[The fucntions list I would add are down below: 
 the time ticking clock 
 enhance the background 
 add different audios 
