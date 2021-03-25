@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="http://g.recordit.co/PM3fWY9sf7.gif" width=250><br>
-![]()
+"http://g.recordit.co/PM3fWY9sf7.gif"
+"http://g.recordit.co/9xdnNCMEBr.gif"
 
 
 ## Reflection Questions
@@ -51,16 +51,20 @@ Here's a walkthrough of implemented user stories:
 [First of all, I had encountered little bit problem for adding mistake count in the html file. From the stackoverflow I fugered out the solution for this problem.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[I have few questions about web development like ]
+[I was wondering to know how to make this same game without using glitch. I am so interested to enhance my knowledge in this field. ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[The fucntions list I would add are down below 
+the time ticking clock 
+enhance the background 
+add different audios 
+make two players game. ]
 
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Mahmuda Aker]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
