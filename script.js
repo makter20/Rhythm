@@ -1,5 +1,5 @@
 var mistakeCount;
-var pattern = [4, 5, 2, 2, 1, 3];
+var pattern = [];
 const patternLength = 10;
 var progress = 0;
 var gamePlaying = false;
