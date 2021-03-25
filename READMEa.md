@@ -4,7 +4,7 @@
 
 Submitted by: **Mahmuda Akter**
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/nebulous-ripple-eggnog?path=script.js%3A1%3A0
 
