@@ -22,10 +22,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [X] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
+* [X] Playback speeds up on each turn
 * [X] Computer picks a different pattern each time the game is played
 * [X] Player only loses after 3 mistakes (instead of on the first mistake)
 * [X] Game button appearance change goes beyond color (e.g. add an image)
@@ -72,3 +72,4 @@ Here's a walkthrough of implemented user stories:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
