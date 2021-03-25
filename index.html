@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Rhythm</h1>
+    
+    <p>
+      Welcome to the game!
+    </p>
+    
+    <p>
+      Repeat back the pattern by pressing button.
+    </p>
+    <button id="startBtn" onclick = "startGame()">
+      
+      Start
+      
+    </button>
+    
+    <button id = "stopBtn" class="hidden" onclick = "stopGame()">
+      
+      Stop
+      
+    </button>
+    
+    <div id="count">
+      Mistake Count: 0
+    </div>
+    
+    <div id="gameButtonArea">
+      
+      <button id = "button1" onclick = "guess(1)" onmousedown = "startTone(1); showImg(1);" onmouseup = "stopTone(); hideImg(1);">
+          <img id="img1" src="https://cdn.glitch.com/12b9448c-79c7-486b-a345-4f02a3248bb3%2Fjerry.jpeg?v=1616640614356" class="hidden"/>
+      </button>
+      <button id = "button2" onclick = "guess(2)" onmousedown = "startTone(2); showImg(2);" onmouseup = "stopTone(); hideImg(2);">
+          <img id="img2" src="https://cdn.glitch.com/12b9448c-79c7-486b-a345-4f02a3248bb3%2Ftom%26jerry.jpeg?v=1616640635818" class="hidden"/>
+      </button>
+      <button id = "button3" onclick = "guess(3)" onmousedown = "startTone(3); showImg(3);" onmouseup = "stopTone(); hideImg(3);">
+          <img id="img3" src="https://cdn.glitch.com/12b9448c-79c7-486b-a345-4f02a3248bb3%2Fmickey.jpeg?v=1616640620419" class="hidden"/>
+      </button>
+      <button id = "button4" onclick = "guess(4)" onmousedown = "startTone(4); showImg(4);" onmouseup = "stopTone(); hideImg(4);">
+          <img id="img4" src="https://cdn.glitch.com/12b9448c-79c7-486b-a345-4f02a3248bb3%2FmickyInLove.jpeg?v=1616640626050" class="hidden"/>
+      </button>
+      <button id = "button5" onclick = "guess(5)" onmousedown = "startTone(5); showImg(5);" onmouseup = "stopTone(); hideImg(5);">
+          <img id="img5" src="https://cdn.glitch.com/12b9448c-79c7-486b-a345-4f02a3248bb3%2Ftweety.jpeg?v=1616640643445" class="hidden"/>
+      </button>
+    </div>
+    
+    
+  </body>
+</html>
