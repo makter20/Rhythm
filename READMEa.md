@@ -6,7 +6,7 @@ Submitted by: **Mahmuda Akter**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/nebulous-ripple-eggnog?path=script.js%3A1%3A0
 
 ## Required Functionality
 
@@ -22,10 +22,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [X] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
+* [X] Playback speeds up on each turn
 * [X] Computer picks a different pattern each time the game is played
 * [X] Player only loses after 3 mistakes (instead of on the first mistake)
 * [X] Game button appearance change goes beyond color (e.g. add an image)
@@ -34,23 +34,24 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Added mistake count feature visiable on the html!
+- [X] Added mistake count feature visiable on the html
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](http://g.recordit.co/PM3fWY9sf7.gif)
+![]()
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[stackoverflow, w3schools]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[First of all, I had encountered little bit problem for adding mistake count in the html file. From the stackoverflow I fugered out the solution for this problem.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I have few questions about web development like ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
